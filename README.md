@@ -33,6 +33,12 @@ If OFPLACE's reception goes well, an actual codebase may soon follow our interac
 
 ### Media
 
+COMMUNITY CENTER REDEVELOPMENT image: Virginia Tech Mitchell Hall rendering https://www.facilities.vt.edu/planning-financing/campus-construction-projects/replacerandolphhall.html
+
+COMMUNITY CENTER REDEVELOPMENT render: Coventry road warwick construction https://poly.cam/capture/f51c9236-da7c-4c75-959d-9b885d86eb06
+
+Map page image: Google Maps' data of Virginia Tech and downtown Blacksburg
+
 
 ### Tools
 
