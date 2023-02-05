@@ -2,6 +2,8 @@
 
 With crowdsourced urban planning, let's start shaping the future *of place*.
 
+Try out the prototype [here](https://www.figma.com/proto/ldZcYOWBJQfHswdqmKVQEo/OFPLACE?node-id=33%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=33%3A8).
+
 ## Inspiration
 The majority of our project group consists of individuals that do not own personal vehicles. We have to walk or take public transit everywhere. The majority of our group is also women. In an ideal world, those facts would not collide, but unfortunately, they do, and as a result we have a vested interest in safe, secure, and accessible urban environments.
 
